@@ -70,3 +70,4 @@ public class Cinema implements Serializable {
         this.category = category;
     }
 }
+

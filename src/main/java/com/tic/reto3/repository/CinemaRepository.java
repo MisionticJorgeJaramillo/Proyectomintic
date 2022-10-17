@@ -28,3 +28,4 @@ public class CinemaRepository {
         cinemaCrudRepository.delete(c);
     }
 }
+

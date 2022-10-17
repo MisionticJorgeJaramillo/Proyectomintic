@@ -28,3 +28,4 @@ public class CategoryRepository {
         categoryCrudRepository.delete(c);
     }
 }
+

@@ -27,3 +27,4 @@ public class CinemaController {
         return cinemaService.save(p);
     }
 }
+
